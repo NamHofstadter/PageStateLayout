@@ -63,5 +63,5 @@ showDiyState(View view)//展示完全自定义布局，可以是任何的自定�
 ```
 ## 3、注意事项
 *① 因为涉及的业务逻辑每个人都不一样，所以这个库不提供依赖，请下载源码导入自己的工程*<br/>
-*② 如要使用默认样式，请手动修改每一个布局即可*
-<img src='http://img.ksban.cn/PageStateLayout02.png'/>
+*② 如要使用默认样式，请手动修改每一个布局即可*<br/>
+<img src='http://img.ksban.cn/PageStateLayout02.png' width='411' height='365'/>
