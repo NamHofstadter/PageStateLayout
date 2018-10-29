@@ -45,10 +45,12 @@ public class MainActivity extends AppCompatActivity {
 
     public void loading(View view) {
         state.showLoading();
+//        View loadingView = View.inflate(this, R.layout.loading_view, null);
+//        state.showLoading(loadingView);
     }
 
     public void empty(View view) {
-        state.showEmpty();
+//        state.showEmpty();
     }
 
     public void netError(View view) {
